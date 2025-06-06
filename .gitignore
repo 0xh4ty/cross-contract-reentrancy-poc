@@ -1,0 +1,6 @@
+out/
+lib/
+cache/
+broadcast/
+foundry.toml.lock
+.github/workflows/
